@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+.sort {
+  padding: 10px;
+  font-size: 18px;
+  background-color: #059b3c;
+  border: none;
+  cursor: pointer;
+}
